@@ -17,6 +17,7 @@ Also, in 2019 the vast majority of drivers were in the urban setting followed by
 **Driver Count Data:** 
 ![This is an image](https://github.com/PDob02/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
+Urban Areas Dominating the total percentage of fares:
 **% of Total Fares by City Type:**
 ![This is an image](https://github.com/PDob02/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
@@ -29,9 +30,8 @@ Also, in 2019 the vast majority of drivers were in the urban setting followed by
 **PyBer Fare Summary**
 ![This is an image](https://github.com/PDob02/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-Results:One of the main results of the analysis is that urban areas are the total volume leader and have outsold rural and suburan areas combined. Urban also has access to the most drivers and can therefore produce the most trips. A rural trip and suburban trip might be more profitable but those are fewer and far between than urban, which dominates the space. More would have to be known about the strategic objectives of this company but future investment would probably be most worthy in the urban areas due to the volume and availability of drivers. 
+Results: One of the main results of the analysis is that urban areas are the total volume leader and have outsold rural and suburan areas combined. Urban also has access to the most drivers and can therefore produce the most trips. A rural trip and suburban trip might be more profitable but those are fewer and far between than urban, which dominates the space. More would have to be known about the strategic objectives of this company but future investment would probably be most worthy in the urban areas due to the volume and availability of drivers. 
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 ![This is an image](https://github.com/PDob02/PyBer_Analysis/blob/main/analysis/Average_Fare_Driver.png)
 
 **Summary:**
